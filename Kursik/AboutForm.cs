@@ -40,7 +40,7 @@ namespace Kursik
             {
                 System.Diagnostics.Process.Start(new System.Diagnostics.ProcessStartInfo
                 {
-                    FileName = "https://example.com",
+                    FileName = "https://github.com/werlond/Kursovaya-OOP",
                     UseShellExecute = true
                 });
             }
