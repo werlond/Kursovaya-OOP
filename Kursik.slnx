@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Kursik/Kursik.csproj" Id="42b009fe-dad1-409b-be86-078c9912d760" />
+  <Project Path="FestivalFilm.Core/FestivalFilm.Core.csproj" Id="a8f3e2b1-4c5d-6e7f-8091-a2b3c4d5e6f7" />
+  <Project Path="FestivalFilm.Data/FestivalFilm.Data.csproj" Id="c9d8e7f6-a5b4-4321-9876-543210fedcba" />
+</Solution>
